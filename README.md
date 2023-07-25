@@ -388,3 +388,14 @@ if (key == '4') {
     }
 ```
 
+## Reference
+
+[1] J. C. Carr, R. K. Beatson and etc :  *Reconstruction and Representation of 3D Objects with Radial Basis Functions*
+
+[2] A. Chernih · I, H. Sloan, R. S. Womersley : *Wendland functions with increasing smoothness converge to a Gaussian*
+
+[3] David Levin : *Moving Least Squares*
+
+[4] Sheng-Xin Zhu : *Compactly supported radial basis functions: how and why?*
+
+[5] [libigl official tutorial](https://libigl.github.io/tutorial/)
